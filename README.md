@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sintayehu Desalegn
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript frameworks
+- 🌱 I’m currently learning javascript frameworks(react and nodejs)
 - 💞️ I’m looking to collaborate on frontend development team
 
 <!---
